@@ -72,7 +72,7 @@ dotnet run --project DotFetch.NET
 ## Author
 
 **Ibne Nahian**  
-[GitHub: evilprince2009](https://github.com/evilprince2009)  
+[GitHub: nahiandev](https://github.com/nahiandev)  
 
 > Coded with ♥ in PowerShell, C# and a love for clean CLI tools.
 
